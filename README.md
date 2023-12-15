@@ -24,7 +24,7 @@ O Projeto tem como objetivo aprimorar as experiências profissionais, pessoais e
 
 # Exemplo de uso
 
-O serviço está em desenvolvimento e poderá ser acessado futuramente através do endereço https://github.com/diasdaniel90/imobiliaria.
+O serviço está em desenvolvimento e poderá ser acessado futuramente através do endereço https://diasdaniel90.github.io/imobiliaria/.
 
 <hr />
 
